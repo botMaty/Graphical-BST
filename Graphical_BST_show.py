@@ -8,10 +8,10 @@ from Graphical_BST import G_BST
 Xview = "1366"
 Yview = "768"
 
-window_color = "white"                              # "white"
-oval_and_button_and_entry_fill = "skyblue"            # "skyblue"
-texts_and_lines_color = "black"                   # "black"
-texts_and_lines_scrolling_tree_color = "red"    # "red"
+window_color = "black"                              # "white"
+oval_and_button_and_entry_fill = "black"            # "skyblue"
+texts_and_lines_color = "#00FF00"                   # "black"
+texts_and_lines_scrolling_tree_color = "red"        # "orange"
 
 entry_and_button_and_message_font_size = 13
 nodes_text_font_size = 13
