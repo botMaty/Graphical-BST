@@ -14,4 +14,3 @@ This project visualizes a Binary Search Tree (BST) using Python's Tkinter librar
 
 ```bash
 python Graphical_BST_show.py
-```
